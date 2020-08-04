@@ -1,3 +1,5 @@
 test file
 I am new to Github and trying to figure out how to use it!
 saved changes are called commits.  the commit message can be used to describe the change history
+when done create pull request.   once you review the changes you hit create pull request.
+then click merge pull request to merge changes back to the master level.   once you confirm the merge you can DELETE BRANCH
